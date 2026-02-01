@@ -14,5 +14,4 @@ A full-stack invoicing platform built for small businesses to manage finances wi
 * **Real-time Dashboard:** Interactive charts using Recharts.
 * **Responsive Design:** Fully mobile-optimized UI.
 
-## 📸 Screenshots
-(You can drag and drop screenshots here later)
+
