@@ -1,0 +1,8 @@
+
+{
+  "name": "SmartInvoice",
+  "description": "A production-ready SaaS for automated bookkeeping and invoice data extraction using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
